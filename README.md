@@ -2,7 +2,7 @@
 
 pc hook 的websocket api 包装
 
-感谢hedada：https://github.com/hedada-hc/pc_wechat_hook
+
 
 ## 支持功能如下：
 -   微信多开
