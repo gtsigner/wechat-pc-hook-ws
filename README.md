@@ -37,12 +37,3 @@ pc hook 的websocket api 包装
 ## 协议
 
 此DLL仅供研究hook学习使用，请勿商业用途，或者其他非发用途，克隆或者下载此项目表示你已经看到了这些说明，出现任何法律纠纷与本人无关，技术交流开发QQ群：486574713
-
-
-## 支持我
-
-打赏我喝杯咖啡怎么样？？
-
-<img src="./screenshots/wx.jpg" width="387px">
-
-<img src="./screenshots/ali.jpg" width="350px">
